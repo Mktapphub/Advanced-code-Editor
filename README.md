@@ -48,13 +48,18 @@ Perfect for both learners and developers, it runs entirely offline, with no ads 
 
 ## 📸 Screenshots
 
-| Editor | code | Source Viewer |
-|--------|--------------|----------------|
-| ![Editor](Advanced code Editor_1.jpg) | ![Preview](screenshots/preview.png) | ![Source](screenshots/source.png) |
 
-> *(Replace these with your actual screenshots placed in the `/screenshots` folder.)*
 
----
+![Advanced code Editor_1](https://github.com/user-attachments/assets/ea6cfe46-e236-429b-9ea5-42268a63c664)
+
+
+
+![Advanced code Editor_2](https://github.com/user-attachments/assets/8e83c4f0-445a-4dc8-a16f-6673c63f024d)
+
+
+
+![screen_3](https://github.com/user-attachments/assets/a804f7c6-1692-424d-b178-5666c527a56a)
+
 
 ## 🛡️ Important Notice
 
