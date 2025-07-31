@@ -48,7 +48,7 @@ Perfect for both learners and developers, it runs entirely offline, with no ads 
 
 ## 📸 Screenshots
 
-| Editor | Live Preview | Source Viewer |
+| Editor | code | Source Viewer |
 |--------|--------------|----------------|
 | ![Editor](screenshots/editor.png) | ![Preview](screenshots/preview.png) | ![Source](screenshots/source.png) |
 
